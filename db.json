@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Learn Angular Routing", "description": "Získať znalosti o smerovaní v Angular aplikáciách." },
-    { "id": 2, "title": "Build a ToDo App", "description": "Vytvoriť jednoduchú aplikáciu pre správu úloh." },
-    { "id": 3, "title": "Understand Nested Routes", "description": "Pochopiť koncept vnorených ciest v Angular." }
+    { "id": 1, "title": "Learn Angular Routing", "description": "Získať znalosti o smerovaní v Angular aplikáciách.", "completed": false },
+    { "id": 2, "title": "Build a ToDo App", "description": "Vytvoriť jednoduchú aplikáciu pre správu úloh." , "completed": false},
+    { "id": 3, "title": "Understand Nested Routes", "description": "Pochopiť koncept vnorených ciest v Angular." , "completed": false}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
